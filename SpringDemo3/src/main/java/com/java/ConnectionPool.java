@@ -1,4 +1,4 @@
-package com.java;
+/*package com.java;
 
 import org.apache.tomcat.dbcp.dbcp2.BasicDataSource;
 
@@ -12,4 +12,4 @@ public class ConnectionPool {
 	}
 }//ds.getConnection();: instance factory method in BasicDataSource class
 
-//factory method. Returns object of diff class
+//factory method. Returns object of diff class*/
